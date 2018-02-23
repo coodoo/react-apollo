@@ -78,7 +78,7 @@ ReactDOM.render(
 
 Now you may create components in this React tree that are connected to your GraphQL API.
 
-Finally, to demonstrate the power of React Apollo in building interactive UIs let us connect one of your components to your GraphQL server using the [`graphql()`][] component enhancer:
+Finally, to demonstrate the power of React Apollo in building interactive UIs let us connect one of your components to your GraphQL server using the [`graphql()`][https://www.apollographql.com/docs/react/basics/setup.html#graphql] component enhancer:
 
 You'll need install `graphql-tag` to use `gql` module:
 
